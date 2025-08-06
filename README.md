@@ -34,5 +34,7 @@
 - 私一人しか使わなさそう
 - 今回使う範囲は和歌山大学祭の商品表など、小規模に収まる予定
 - DBを使う最初なので、環境構築などができないと思ったから。
-使えそうなリンク  
-https://www.javadrive.jp/sqlite/
+## 使えそうなリンク  
+https://www.javadrive.jp/sqlite/ <br>
+
+https://qiita.com/shikuno_dev/items/13de104aa2c2adf8aead 
