@@ -19,3 +19,5 @@ SQLite
 
 以上のことから、今回は私一人しか触らないであろうことから  
   **SQLiteを採用。**
+使えそうなリンク  
+https://www.javadrive.jp/sqlite/
